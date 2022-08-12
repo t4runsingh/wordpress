@@ -1,0 +1,30 @@
+.roktabs-wrapper {padding: 0;}
+.roktabs-wrapper .base {position: relative;}
+.roktabs-wrapper .base .roktabs-container-inner {position:relative;overflow: hidden;}
+.roktabs-wrapper .base .roktabs-container-wrapper {clear: both;position: relative;overflow: hidden;}
+.roktabs-wrapper .base .roktabs-container-wrapper div {float: left;/*width: 450px;*//*width: 220px;*/}
+.roktabs-wrapper .base .roktabs-container-wrapper div.wrapper {width: auto;}
+.roktabs-wrapper .base .roktabs-links {overflow: hidden;margin:0;}
+.roktabs-wrapper .base .active-arrows .roktabs-links {margin:0;}
+.roktabs-wrapper .base .roktabs-links ul {text-align: left;font-weight: bold;list-style-type: none;padding: 0;overflow:hidden;}
+.roktabs-wrapper .base .roktabs-links ul.roktabs-top {margin: 0;background: none;height: 59px;}
+.tabbar .roktabs-wrapper .base .roktabs-links ul.roktabs-top {margin: 0;background: none;height: 25px;}
+.roktabs-wrapper .base .roktabs-links ul.roktabs-bottom {display: none;}
+.roktabs-wrapper .base .roktabs-links ul li {float: left;padding: 0;margin: 0;text-decoration: none;border-bottom: none;color: #666;position: relative;height: 26px;line-height: 26px;}
+.roktabs-wrapper .base .roktabs-links ul li span {padding: 0;}
+.roktabs-wrapper .base .roktabs-links ul li.first {border-left: 0;}
+.roktabs-wrapper .base .roktabs-links ul li.active.last {}
+.roktabs-wrapper .base .roktabs-links ul li.last {border-right: 0;}
+.roktabs-wrapper .base .roktabs-links ul li.hover {color: #000;}
+.roktabs-wrapper .base .roktabs-links ul.roktabs-top li.active {}
+.roktabs-wrapper .base .roktabs-links ul.roktabs-bottom li.active {background: none;color: #000;height: 31px;margin-top: -1px;}
+.roktabs-wrapper .base .roktabs-links ul li.active.first {border-left: 0;}
+.roktabs-wrapper .base .roktabs-scroller {position: absolute;bottom: 0;right: 0;height: 32px;}
+.roktabs-wrapper .base .arrow-next, .roktabs-wrapper .base .arrow-prev {display: none;}
+.roktabs-wrapper .base .arrow-next {display: none;}
+.roktabs-wrapper .base .arrow-prev {display: none;}
+.roktabs-wrapper .base .arrow-next-hover {background-position: 50% -29px;}
+.roktabs-wrapper .base .arrow-prev-hover {background-position: 50% -29px;}
+.roktabs-wrapper .base .arrow-prev span, .roktabs-wrapper .base .arrow-next span {display: none;}
+.roktabs-wrapper .base .roktabs-container-tr, .roktabs-wrapper .base .roktabs-container-inner, .roktabs-wrapper .base .active-arrows {}
+.clear {clear: both;}

@@ -1,0 +1,11 @@
+#rtpanel, #top, .roktabs-links, ul.roktabs-top, .paramcheck label {zoom:1;}
+.paramcheck input.checkbox {display:block !important;position:absolute !important;left: -9999px !important;}
+.roktabs-links {margin-left: 0 !important;}
+.tabcont {width: 770px !important;}
+.paramcheck label {margin-top: 3px;}
+.bigcol .scs, .bigcol .scx, .bigcol .xcs, .bigcol .xcx, .bigcol .sub-scs, .bigcol .sub-scx, .bigcol .sub-xcs, .bigcol .sub-xcx {display: block; width: 183px !important;}
+div.paramcheck.onlycheck {min-width: 143px !important;}
+div.paramcheck.coloronly {min-width: 150px !important;}
+div.paramfield select {width: 130px !important;}
+div.paramcheck.doublefield {min-width: 164px !important;}
+div.paramcheck.stubborn {min-width: 164px !important;}

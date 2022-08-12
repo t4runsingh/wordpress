@@ -1,0 +1,2136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Moxy 1.0 WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-02 22:10+0100\n"
+"PO-Revision-Date: 2010-02-02 22:10+0100\n"
+"Last-Translator: newkind <newkind@gmail.com>\n"
+"Language-Team: RocketTheme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _r;_re\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:41
+msgid "Category:"
+msgstr ""
+
+#: archive.php:43
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:45
+#: archive.php:47
+#: archive.php:49
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:51
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:53
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:110
+#: comments.php:24
+#: index.php:79
+#: page-blog.php:87
+#: page-cms.php:72
+#: page.php:98
+#: search.php:99
+#: single.php:98
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:110
+#: comments.php:24
+#: index.php:79
+#: page-blog.php:87
+#: page-cms.php:72
+#: page.php:98
+#: search.php:99
+#: single.php:98
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:110
+#: comments.php:24
+#: index.php:79
+#: page-blog.php:87
+#: page-cms.php:72
+#: page.php:98
+#: search.php:99
+#: single.php:98
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:193
+#: index.php:162
+#: page-blog.php:170
+#: search.php:182
+msgid "More Information"
+msgstr ""
+
+#: archive.php:221
+#: index.php:190
+#: page-blog.php:198
+#: search.php:210
+msgid "Older Entries"
+msgstr ""
+
+#: archive.php:224
+#: index.php:193
+#: page-blog.php:201
+#: search.php:213
+msgid "Newer Entries"
+msgstr ""
+
+#: archive.php:233
+msgid "Sorry, but there aren't any posts matching your query."
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:29
+msgid "Reply"
+msgstr ""
+
+#: comments.php:34
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:59
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:68
+msgid "You must be"
+msgstr ""
+
+#: comments.php:68
+msgid "logged in"
+msgstr ""
+
+#: comments.php:68
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:78
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:78
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:78
+msgid "Log out"
+msgstr ""
+
+#: comments.php:83
+msgid "Name (Required)"
+msgstr ""
+
+#: comments.php:87
+msgid "E-mail (Required)"
+msgstr ""
+
+#: comments.php:91
+msgid "Website"
+msgstr ""
+
+#: comments.php:107
+msgid "Submit"
+msgstr ""
+
+#: footer.php:31
+msgid "(more...)"
+msgstr ""
+
+#: footer.php:63
+msgid "Recent Posts"
+msgstr ""
+
+#: footer.php:88
+msgid "Last Modified"
+msgstr ""
+
+#: footer.php:123
+msgid "Popular Posts"
+msgstr ""
+
+#: footer.php:203
+msgid "Back to Top"
+msgstr ""
+
+#: header.php:390
+msgid "Search..."
+msgstr ""
+
+#: page-cms.php:119
+#: page.php:145
+#: single.php:145
+msgid "Pages:"
+msgstr ""
+
+#: page-cms.php:121
+#: page.php:147
+msgid "Edit this entry."
+msgstr ""
+
+#: page-cms.php:143
+#: page.php:169
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: search.php:31
+msgid "Search Results for "
+msgstr ""
+
+#: search.php:222
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: single.php:151
+msgid "TAGS:"
+msgstr ""
+
+#: single.php:163
+msgid "This entry was posted"
+msgstr ""
+
+#: single.php:168
+msgid "on"
+msgstr ""
+
+#: single.php:168
+msgid "at"
+msgstr ""
+
+#: single.php:169
+msgid "and is filed under"
+msgstr ""
+
+#: single.php:170
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: single.php:170
+msgid "feed"
+msgstr ""
+
+#: single.php:174
+msgid "You can"
+msgstr ""
+
+#: single.php:174
+msgid "leave a response"
+msgstr ""
+
+#: single.php:174
+msgid "or"
+msgstr ""
+
+#: single.php:174
+#: single.php:178
+msgid "trackback"
+msgstr ""
+
+#: single.php:174
+#: single.php:178
+msgid "from your own site."
+msgstr ""
+
+#: single.php:178
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: single.php:182
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: single.php:186
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: single.php:188
+msgid "Edit this entry"
+msgstr ""
+
+#: single.php:215
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: admin/general.php:16
+#: admin/general.php:52
+msgid "Main"
+msgstr ""
+
+#: admin/general.php:21
+#: admin/general.php:250
+msgid "Blog"
+msgstr ""
+
+#: admin/general.php:26
+#: admin/general.php:401
+msgid "Header"
+msgstr ""
+
+#: admin/general.php:31
+#: admin/general.php:479
+msgid "Footer"
+msgstr ""
+
+#: admin/general.php:36
+#: admin/general.php:614
+msgid "Dimensions"
+msgstr ""
+
+#: admin/general.php:41
+msgid "RokBox"
+msgstr ""
+
+#: admin/general.php:59
+msgid "Breadcrumbs:"
+msgstr ""
+
+#: admin/general.php:66
+msgid "Displays breadcrumbs on single posts and pages."
+msgstr ""
+
+#: admin/general.php:72
+msgid "IE6 Warning:"
+msgstr ""
+
+#: admin/general.php:79
+msgid "Displays visitors a message that they're using IE6 and they should upgrade their browser to a newer version."
+msgstr ""
+
+#: admin/general.php:87
+msgid "Font Face:"
+msgstr ""
+
+#: admin/general.php:106
+msgid "Choose the font you wish to use on your site."
+msgstr ""
+
+#: admin/general.php:112
+msgid "Font Size:"
+msgstr ""
+
+#: admin/general.php:117
+msgid "Smaller"
+msgstr ""
+
+#: admin/general.php:118
+msgid "Default"
+msgstr ""
+
+#: admin/general.php:119
+msgid "Larger"
+msgstr ""
+
+#: admin/general.php:124
+msgid "Choose the font size you wish to use on your site."
+msgstr ""
+
+#: admin/general.php:132
+msgid "Thumbnail Size:"
+msgstr ""
+
+#: admin/general.php:142
+msgid "All images used as a thumbnails will be cropped to this size."
+msgstr ""
+
+#: admin/general.php:148
+msgid "Display Search:"
+msgstr ""
+
+#: admin/general.php:155
+msgid "Displays search box in the top."
+msgstr ""
+
+#: admin/general.php:163
+msgid "Top Logo:"
+msgstr ""
+
+#: admin/general.php:170
+msgid "Displays site logo in header."
+msgstr ""
+
+#: admin/general.php:176
+msgid "Display Top Date:"
+msgstr ""
+
+#: admin/general.php:183
+msgid "Displays current date in the top bar."
+msgstr ""
+
+#: admin/general.php:191
+msgid "RocketTheme Logo:"
+msgstr ""
+
+#: admin/general.php:198
+msgid "Displays RocketTheme logo in the footer."
+msgstr ""
+
+#: admin/general.php:204
+msgid "\"Back To Top\" Button:"
+msgstr ""
+
+#: admin/general.php:219
+msgid "Display Copyright:"
+msgstr ""
+
+#: admin/general.php:226
+msgid "Displays copyright in the footer."
+msgstr ""
+
+#: admin/general.php:232
+msgid "Copyright Text:"
+msgstr ""
+
+#: admin/general.php:240
+msgid "Here you can change the text that appears as copyright."
+msgstr ""
+
+#: admin/general.php:257
+msgid "Blog Post Order:"
+msgstr ""
+
+#: admin/general.php:262
+#: admin/general.php:504
+msgid "Author"
+msgstr ""
+
+#: admin/general.php:263
+#: admin/general.php:505
+msgid "Date"
+msgstr ""
+
+#: admin/general.php:264
+#: admin/general.php:506
+msgid "Title"
+msgstr ""
+
+#: admin/general.php:265
+#: admin/general.php:507
+msgid "Modified"
+msgstr ""
+
+#: admin/general.php:267
+#: admin/general.php:434
+#: admin/general.php:509
+#: admin/layout.php:200
+#: admin/layout.php:705
+msgid "Random"
+msgstr ""
+
+#: admin/general.php:272
+msgid "Here you can change in what order your posts will be displayed on the front page."
+msgstr ""
+
+#: admin/general.php:278
+#: admin/general.php:593
+#: admin/style.php:688
+#: admin/style.php:814
+#: admin/style.php:940
+#: admin/style.php:1066
+msgid "Display Posts"
+msgstr ""
+
+#: admin/general.php:283
+#: admin/general.php:598
+#: admin/style.php:693
+#: admin/style.php:819
+#: admin/style.php:945
+#: admin/style.php:1071
+msgid "Content"
+msgstr ""
+
+#: admin/general.php:284
+#: admin/general.php:599
+#: admin/style.php:694
+#: admin/style.php:820
+#: admin/style.php:946
+#: admin/style.php:1072
+msgid "Excerpt"
+msgstr ""
+
+#: admin/general.php:289
+msgid "Here you can change whether blog should display posts content or excerpt."
+msgstr ""
+
+#: admin/general.php:297
+msgid "Blog Category ID:"
+msgstr ""
+
+#: admin/general.php:305
+msgid "Here you can set the categories IDs that should be displayed on the blog page. Also you can exclude the categories from being displayed on the blog page by setting the - (minus) character before the category ID.<br /><b>Please remember that all category IDs should be separated by the comma!</b>"
+msgstr ""
+
+#: admin/general.php:311
+msgid "Display Post Title:"
+msgstr ""
+
+#: admin/general.php:318
+msgid "Displays post title in the blog view."
+msgstr ""
+
+#: admin/general.php:326
+msgid "Link Post Title:"
+msgstr ""
+
+#: admin/general.php:333
+msgid "Link post titles in the blog view."
+msgstr ""
+
+#: admin/general.php:339
+msgid "Post Meta:"
+msgstr ""
+
+#: admin/general.php:346
+msgid "Displays post meta in the blog view."
+msgstr ""
+
+#: admin/general.php:354
+#: admin/style.php:499
+#: admin/style.php:592
+msgid "Comments Icon:"
+msgstr ""
+
+#: admin/general.php:361
+msgid "Displays comments icon in meta in the blog view."
+msgstr ""
+
+#: admin/general.php:367
+#: admin/style.php:720
+#: admin/style.php:846
+#: admin/style.php:972
+#: admin/style.php:1098
+msgid "Post Date:"
+msgstr ""
+
+#: admin/general.php:374
+msgid "Displays post date in meta in the blog view."
+msgstr ""
+
+#: admin/general.php:382
+#: admin/style.php:735
+#: admin/style.php:861
+#: admin/style.php:987
+#: admin/style.php:1113
+msgid "Post Author:"
+msgstr ""
+
+#: admin/general.php:389
+msgid "Displays post author in meta in the blog view."
+msgstr ""
+
+#: admin/general.php:408
+msgid "Header Blogroll:"
+msgstr ""
+
+#: admin/general.php:415
+msgid "Displays the blogroll in the header."
+msgstr ""
+
+#: admin/general.php:421
+#: admin/layout.php:187
+#: admin/layout.php:692
+msgid "Blogroll Order:"
+msgstr ""
+
+#: admin/general.php:427
+#: admin/layout.php:193
+#: admin/layout.php:698
+msgid "URL"
+msgstr ""
+
+#: admin/general.php:428
+#: admin/layout.php:194
+#: admin/layout.php:332
+#: admin/layout.php:430
+#: admin/layout.php:501
+#: admin/layout.php:599
+#: admin/layout.php:699
+msgid "Name"
+msgstr ""
+
+#: admin/general.php:429
+#: admin/layout.php:195
+#: admin/layout.php:700
+msgid "Target"
+msgstr ""
+
+#: admin/general.php:430
+#: admin/layout.php:196
+#: admin/layout.php:701
+msgid "Rating"
+msgstr ""
+
+#: admin/general.php:431
+#: admin/layout.php:197
+#: admin/layout.php:702
+msgid "Updated"
+msgstr ""
+
+#: admin/general.php:432
+#: admin/layout.php:198
+#: admin/layout.php:703
+msgid "RSS"
+msgstr ""
+
+#: admin/general.php:433
+#: admin/layout.php:199
+#: admin/layout.php:704
+msgid "Lenght"
+msgstr ""
+
+#: admin/general.php:447
+#: admin/layout.php:213
+#: admin/layout.php:718
+msgid "Blogroll Limit:"
+msgstr ""
+
+#: admin/general.php:461
+#: admin/layout.php:246
+#: admin/layout.php:751
+msgid "Blogroll Category:"
+msgstr ""
+
+#: admin/general.php:486
+msgid "Footer Display:"
+msgstr ""
+
+#: admin/general.php:493
+msgid "Enable / disable footer display."
+msgstr ""
+
+#: admin/general.php:499
+msgid "Footer Order:"
+msgstr ""
+
+#: admin/general.php:514
+msgid "Display order of the Footer posts."
+msgstr ""
+
+#: admin/general.php:530
+msgid "Here you can change the category that will be responsible for all your Footer posts."
+msgstr ""
+
+#: admin/general.php:536
+msgid "List Items:"
+msgstr ""
+
+#: admin/general.php:544
+msgid "Sets number of list items to display in the footer."
+msgstr ""
+
+#: admin/general.php:552
+msgid "Popular:"
+msgstr ""
+
+#: admin/general.php:559
+msgid "Enable / disable list of popular posts in footer."
+msgstr ""
+
+#: admin/general.php:565
+msgid "Recent:"
+msgstr ""
+
+#: admin/general.php:572
+msgid "Enable / disable list of recent posts in footer."
+msgstr ""
+
+#: admin/general.php:580
+msgid "Last Modified:"
+msgstr ""
+
+#: admin/general.php:587
+msgid "Enable / disable list of last modified posts in footer."
+msgstr ""
+
+#: admin/general.php:604
+msgid "Here you can change whether posts in footer should display it's content or excerpt."
+msgstr ""
+
+#: admin/general.php:621
+msgid "Site Width:"
+msgstr ""
+
+#: admin/general.php:629
+msgid "Here you can change the site width."
+msgstr ""
+
+#: admin/general.php:635
+msgid "Left Column Width:"
+msgstr ""
+
+#: admin/general.php:643
+msgid "Here you can change width of the left sidebar."
+msgstr ""
+
+#: admin/general.php:651
+msgid "Right Column Width:"
+msgstr ""
+
+#: admin/general.php:659
+msgid "Here you can change width of the right sidebar."
+msgstr ""
+
+#: admin/general.php:678
+msgid "RokBox:"
+msgstr ""
+
+#: admin/general.php:685
+msgid "RokBox is a mootools powered JavaScript slideshow that allows you to quickly and easily display multiple media formats including images, videos (video sharing services also) and music."
+msgstr ""
+
+#: admin/general.php:691
+msgid "RokBox Style:"
+msgstr ""
+
+#: admin/general.php:696
+#: admin/style.php:125
+msgid "Light"
+msgstr ""
+
+#: admin/general.php:697
+#: admin/style.php:126
+msgid "Dark"
+msgstr ""
+
+#: admin/general.php:698
+msgid "Mynxx"
+msgstr ""
+
+#: admin/general.php:703
+msgid "Your media can be displayed using one of the three great styles for RokBox."
+msgstr ""
+
+#: admin/layout.php:16
+#: admin/layout.php:52
+msgid "Front Page"
+msgstr ""
+
+#: admin/layout.php:21
+#: admin/layout.php:81
+msgid "Subpages"
+msgstr ""
+
+#: admin/layout.php:26
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/layout.php:31
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/layout.php:36
+msgid "Left Sidebar Subpage"
+msgstr ""
+
+#: admin/layout.php:41
+msgid "Right Sidebar Subpage"
+msgstr ""
+
+#: admin/layout.php:59
+#: admin/layout.php:88
+msgid "Sidebar - Content - X"
+msgstr ""
+
+#: admin/layout.php:63
+#: admin/layout.php:92
+msgid "X - Content - Sidebar"
+msgstr ""
+
+#: admin/layout.php:67
+#: admin/layout.php:96
+msgid "Sidebar - Content - Sidebar"
+msgstr ""
+
+#: admin/layout.php:71
+#: admin/layout.php:100
+msgid "X - Content - X"
+msgstr ""
+
+#: admin/layout.php:110
+msgid "Left Sidebar:"
+msgstr ""
+
+#: admin/layout.php:117
+#: admin/layout.php:284
+#: admin/layout.php:453
+#: admin/layout.php:622
+msgid "Sidebar File:"
+msgstr ""
+
+#: admin/layout.php:125
+#: admin/layout.php:292
+#: admin/layout.php:461
+#: admin/layout.php:630
+msgid "Name of the file that holds all default sidebar content. File is located inside theme/includes directory."
+msgstr ""
+
+#: admin/layout.php:131
+#: admin/layout.php:636
+msgid "Authors:"
+msgstr ""
+
+#: admin/layout.php:138
+msgid "Displays authors in left sidebar."
+msgstr ""
+
+#: admin/layout.php:146
+#: admin/layout.php:651
+msgid "Exclude Admin:"
+msgstr ""
+
+#: admin/layout.php:153
+#: admin/layout.php:658
+msgid "Excludes admin from the author list."
+msgstr ""
+
+#: admin/layout.php:159
+#: admin/layout.php:664
+msgid "Author Full Name:"
+msgstr ""
+
+#: admin/layout.php:166
+#: admin/layout.php:671
+msgid "Display / hide full name of author."
+msgstr ""
+
+#: admin/layout.php:174
+#: admin/layout.php:679
+msgid "Blogroll:"
+msgstr ""
+
+#: admin/layout.php:181
+msgid "Displays blogroll in left sidebar."
+msgstr ""
+
+#: admin/layout.php:205
+msgid "Changes blogroll order in left sidebar."
+msgstr ""
+
+#: admin/layout.php:221
+#: admin/layout.php:726
+msgid "Here you can limit the number of displayed links in blogroll, -1 displays all links."
+msgstr ""
+
+#: admin/layout.php:227
+#: admin/layout.php:732
+msgid "Blogroll Categorize:"
+msgstr ""
+
+#: admin/layout.php:232
+#: admin/layout.php:737
+msgid "On"
+msgstr ""
+
+#: admin/layout.php:233
+#: admin/layout.php:738
+msgid "Off"
+msgstr ""
+
+#: admin/layout.php:238
+#: admin/layout.php:743
+msgid "Bookmarks should be shown within their assigned Categories or not."
+msgstr ""
+
+#: admin/layout.php:254
+#: admin/layout.php:759
+msgid "Comma separated list of numeric Category IDs to be displayed. If none is specified, all Categories with bookmarks are shown."
+msgstr ""
+
+#: admin/layout.php:260
+#: admin/layout.php:765
+msgid "Display Meta:"
+msgstr ""
+
+#: admin/layout.php:267
+msgid "Display Meta in left sidebar."
+msgstr ""
+
+#: admin/layout.php:277
+msgid "Right Sidebar:"
+msgstr ""
+
+#: admin/layout.php:298
+#: admin/layout.php:467
+msgid "Categories:"
+msgstr ""
+
+#: admin/layout.php:305
+msgid "Displays categories in right sidebar."
+msgstr ""
+
+#: admin/layout.php:313
+#: admin/layout.php:482
+msgid "Empty Categories:"
+msgstr ""
+
+#: admin/layout.php:320
+msgid "Display / hide empty categories in right sidebar."
+msgstr ""
+
+#: admin/layout.php:326
+#: admin/layout.php:495
+msgid "Categories Order:"
+msgstr ""
+
+#: admin/layout.php:333
+#: admin/layout.php:502
+msgid "Slug"
+msgstr ""
+
+#: admin/layout.php:334
+#: admin/layout.php:431
+#: admin/layout.php:503
+#: admin/layout.php:600
+msgid "Count"
+msgstr ""
+
+#: admin/layout.php:339
+#: admin/layout.php:508
+msgid "You can change order of the categories."
+msgstr ""
+
+#: admin/layout.php:347
+#: admin/layout.php:516
+msgid "Categories Exclude:"
+msgstr ""
+
+#: admin/layout.php:355
+#: admin/layout.php:524
+msgid "ID of categories that you wish to exclude from the list in the sidebar. Please split categories with comma."
+msgstr ""
+
+#: admin/layout.php:361
+#: admin/layout.php:530
+msgid "Archives:"
+msgstr ""
+
+#: admin/layout.php:368
+msgid "Displays archives in right sidebar."
+msgstr ""
+
+#: admin/layout.php:376
+#: admin/layout.php:545
+msgid "Archives Type:"
+msgstr ""
+
+#: admin/layout.php:381
+#: admin/layout.php:550
+msgid "Yearly"
+msgstr ""
+
+#: admin/layout.php:382
+#: admin/layout.php:551
+msgid "Monthly"
+msgstr ""
+
+#: admin/layout.php:383
+#: admin/layout.php:552
+msgid "Daily"
+msgstr ""
+
+#: admin/layout.php:384
+#: admin/layout.php:553
+msgid "Weekly"
+msgstr ""
+
+#: admin/layout.php:385
+#: admin/layout.php:554
+msgid "Post By Post"
+msgstr ""
+
+#: admin/layout.php:390
+#: admin/layout.php:559
+msgid "Type of displayed archives."
+msgstr ""
+
+#: admin/layout.php:396
+#: admin/layout.php:565
+msgid "Archives Limit:"
+msgstr ""
+
+#: admin/layout.php:404
+#: admin/layout.php:573
+msgid "Here you can limit the number of displayed archives."
+msgstr ""
+
+#: admin/layout.php:412
+#: admin/layout.php:581
+msgid "Tags:"
+msgstr ""
+
+#: admin/layout.php:419
+msgid "Displays tags in right sidebar."
+msgstr ""
+
+#: admin/layout.php:425
+#: admin/layout.php:594
+msgid "Tags Order:"
+msgstr ""
+
+#: admin/layout.php:436
+#: admin/layout.php:605
+msgid "Order of tags."
+msgstr ""
+
+#: admin/layout.php:446
+msgid "Left Subpage Sidebar:"
+msgstr ""
+
+#: admin/layout.php:474
+msgid "Displays categories in left subpage sidebar."
+msgstr ""
+
+#: admin/layout.php:489
+msgid "Display / hide empty categories in left subpage sidebar."
+msgstr ""
+
+#: admin/layout.php:537
+msgid "Displays archives in left subpage sidebar."
+msgstr ""
+
+#: admin/layout.php:588
+msgid "Displays tags in left subpage sidebar."
+msgstr ""
+
+#: admin/layout.php:615
+msgid "Right Subpage Sidebar:"
+msgstr ""
+
+#: admin/layout.php:643
+msgid "Displays authors in right subpage sidebar."
+msgstr ""
+
+#: admin/layout.php:686
+msgid "Displays blogroll in right subpage sidebar."
+msgstr ""
+
+#: admin/layout.php:710
+msgid "Changes blogroll order in right subpage sidebar."
+msgstr ""
+
+#: admin/layout.php:772
+msgid "Display Meta in right subapge sidebar."
+msgstr ""
+
+#: admin/style.php:16
+#: admin/style.php:62
+msgid "Presets"
+msgstr ""
+
+#: admin/style.php:21
+#: admin/style.php:143
+msgid "Widgets"
+msgstr ""
+
+#: admin/style.php:26
+#: admin/style.php:464
+msgid "Page"
+msgstr ""
+
+#: admin/style.php:31
+#: admin/style.php:557
+msgid "Single Post"
+msgstr ""
+
+#: admin/style.php:36
+#: admin/style.php:667
+msgid "Category"
+msgstr ""
+
+#: admin/style.php:41
+#: admin/style.php:793
+msgid "Archive"
+msgstr ""
+
+#: admin/style.php:46
+#: admin/style.php:919
+msgid "Tags"
+msgstr ""
+
+#: admin/style.php:51
+#: admin/style.php:1045
+msgid "Search"
+msgstr ""
+
+#: admin/style.php:69
+msgid "Preset Style:"
+msgstr ""
+
+#: admin/style.php:89
+msgid "Here you can switch the theme to one of prepared style."
+msgstr ""
+
+#: admin/style.php:95
+msgid "Header Style:"
+msgstr ""
+
+#: admin/style.php:112
+msgid "Here you can choose the header style."
+msgstr ""
+
+#: admin/style.php:120
+msgid "Body Style:"
+msgstr ""
+
+#: admin/style.php:131
+msgid "Here you can choose the body style."
+msgstr ""
+
+#: admin/style.php:150
+msgid "Over Right Front:"
+msgstr ""
+
+#: admin/style.php:155
+#: admin/style.php:180
+#: admin/style.php:207
+#: admin/style.php:232
+#: admin/style.php:259
+#: admin/style.php:284
+#: admin/style.php:311
+#: admin/style.php:336
+#: admin/style.php:363
+#: admin/style.php:388
+#: admin/style.php:415
+#: admin/style.php:440
+msgid "Round"
+msgstr ""
+
+#: admin/style.php:156
+#: admin/style.php:181
+#: admin/style.php:208
+#: admin/style.php:233
+#: admin/style.php:260
+#: admin/style.php:285
+#: admin/style.php:312
+#: admin/style.php:337
+#: admin/style.php:364
+#: admin/style.php:389
+#: admin/style.php:416
+#: admin/style.php:441
+msgid "Round 2"
+msgstr ""
+
+#: admin/style.php:157
+#: admin/style.php:182
+#: admin/style.php:209
+#: admin/style.php:234
+#: admin/style.php:261
+#: admin/style.php:286
+#: admin/style.php:313
+#: admin/style.php:338
+#: admin/style.php:365
+#: admin/style.php:390
+#: admin/style.php:417
+#: admin/style.php:442
+msgid "Round 3"
+msgstr ""
+
+#: admin/style.php:158
+#: admin/style.php:183
+#: admin/style.php:210
+#: admin/style.php:235
+#: admin/style.php:262
+#: admin/style.php:287
+#: admin/style.php:314
+#: admin/style.php:339
+#: admin/style.php:366
+#: admin/style.php:391
+#: admin/style.php:418
+#: admin/style.php:443
+msgid "Round 4"
+msgstr ""
+
+#: admin/style.php:159
+#: admin/style.php:184
+#: admin/style.php:211
+#: admin/style.php:236
+#: admin/style.php:263
+#: admin/style.php:288
+#: admin/style.php:315
+#: admin/style.php:340
+#: admin/style.php:367
+#: admin/style.php:392
+#: admin/style.php:419
+#: admin/style.php:444
+msgid "Round 5"
+msgstr ""
+
+#: admin/style.php:160
+#: admin/style.php:185
+#: admin/style.php:212
+#: admin/style.php:237
+#: admin/style.php:264
+#: admin/style.php:289
+#: admin/style.php:316
+#: admin/style.php:341
+#: admin/style.php:368
+#: admin/style.php:393
+#: admin/style.php:420
+#: admin/style.php:445
+msgid "Square"
+msgstr ""
+
+#: admin/style.php:161
+#: admin/style.php:186
+#: admin/style.php:213
+#: admin/style.php:238
+#: admin/style.php:265
+#: admin/style.php:290
+#: admin/style.php:317
+#: admin/style.php:342
+#: admin/style.php:369
+#: admin/style.php:394
+#: admin/style.php:421
+#: admin/style.php:446
+msgid "Square 2"
+msgstr ""
+
+#: admin/style.php:162
+#: admin/style.php:187
+#: admin/style.php:214
+#: admin/style.php:239
+#: admin/style.php:266
+#: admin/style.php:291
+#: admin/style.php:318
+#: admin/style.php:343
+#: admin/style.php:370
+#: admin/style.php:395
+#: admin/style.php:422
+#: admin/style.php:447
+msgid "Square 3"
+msgstr ""
+
+#: admin/style.php:163
+#: admin/style.php:188
+#: admin/style.php:215
+#: admin/style.php:240
+#: admin/style.php:267
+#: admin/style.php:292
+#: admin/style.php:319
+#: admin/style.php:344
+#: admin/style.php:371
+#: admin/style.php:396
+#: admin/style.php:423
+#: admin/style.php:448
+msgid "Square 4"
+msgstr ""
+
+#: admin/style.php:164
+#: admin/style.php:189
+#: admin/style.php:216
+#: admin/style.php:241
+#: admin/style.php:268
+#: admin/style.php:293
+#: admin/style.php:320
+#: admin/style.php:345
+#: admin/style.php:372
+#: admin/style.php:397
+#: admin/style.php:424
+#: admin/style.php:449
+msgid "Square 5"
+msgstr ""
+
+#: admin/style.php:169
+msgid "Here you can switch the Over Right Front Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:175
+msgid "Right Front:"
+msgstr ""
+
+#: admin/style.php:194
+msgid "Here you can switch the Right Front Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:202
+msgid "Under Right Front:"
+msgstr ""
+
+#: admin/style.php:221
+msgid "Here you can switch the Under Right Front Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:227
+msgid "Over Left Front:"
+msgstr ""
+
+#: admin/style.php:246
+msgid "Here you can switch the Over Left Front Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:254
+msgid "Left Front:"
+msgstr ""
+
+#: admin/style.php:273
+msgid "Here you can switch the Left Front Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:279
+msgid "Under Left Front:"
+msgstr ""
+
+#: admin/style.php:298
+msgid "Here you can switch the Under Left Front Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:306
+msgid "Over Right Sub:"
+msgstr ""
+
+#: admin/style.php:325
+msgid "Here you can switch the Over Right Subpage Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:331
+msgid "Right Sub:"
+msgstr ""
+
+#: admin/style.php:350
+msgid "Here you can switch the Right Subpage Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:358
+msgid "Under Right Sub:"
+msgstr ""
+
+#: admin/style.php:377
+msgid "Here you can switch the Under Right Subpage Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:383
+msgid "Over Left Sub:"
+msgstr ""
+
+#: admin/style.php:402
+msgid "Here you can switch the Over Left Subpage Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:410
+msgid "Left Sub:"
+msgstr ""
+
+#: admin/style.php:429
+msgid "Here you can switch the Left Subpage Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:435
+msgid "Under Left Sub:"
+msgstr ""
+
+#: admin/style.php:454
+msgid "Here you can switch the Under Left Subpage Sidebar widget position hilite."
+msgstr ""
+
+#: admin/style.php:471
+msgid "Page Meta:"
+msgstr ""
+
+#: admin/style.php:478
+msgid "Enable or disable meta (author, date, categories etc.) on the page display."
+msgstr ""
+
+#: admin/style.php:484
+msgid "Page Title:"
+msgstr ""
+
+#: admin/style.php:491
+msgid "Displays title on the custom page view."
+msgstr ""
+
+#: admin/style.php:506
+msgid "Displays comments icon in meta in the custom page view."
+msgstr ""
+
+#: admin/style.php:512
+msgid "Page Date:"
+msgstr ""
+
+#: admin/style.php:519
+msgid "Displays page date in meta in the custom page view."
+msgstr ""
+
+#: admin/style.php:527
+msgid "Page TweetMe:"
+msgstr ""
+
+#: admin/style.php:534
+msgid "Displays \"Retweet\" button at the beggining of the page."
+msgstr ""
+
+#: admin/style.php:540
+msgid "Page Author:"
+msgstr ""
+
+#: admin/style.php:547
+msgid "Displays page author in meta in the custom page view."
+msgstr ""
+
+#: admin/style.php:564
+msgid "Single Post Meta:"
+msgstr ""
+
+#: admin/style.php:571
+msgid "Enable or disable meta (author, date, categories etc.) on the single post display."
+msgstr ""
+
+#: admin/style.php:577
+msgid "Single Post Title:"
+msgstr ""
+
+#: admin/style.php:584
+msgid "Displays title on the single post view."
+msgstr ""
+
+#: admin/style.php:599
+msgid "Displays comments icon in meta in the single post view."
+msgstr ""
+
+#: admin/style.php:605
+msgid "Single Post Date:"
+msgstr ""
+
+#: admin/style.php:612
+msgid "Displays post date in meta in the single post view."
+msgstr ""
+
+#: admin/style.php:620
+msgid "Single Post Author:"
+msgstr ""
+
+#: admin/style.php:627
+msgid "Displays post author in meta in the single post view."
+msgstr ""
+
+#: admin/style.php:633
+msgid "Single Post Footer:"
+msgstr ""
+
+#: admin/style.php:640
+msgid "Displays footer of the post in the single post view."
+msgstr ""
+
+#: admin/style.php:648
+msgid "Single Post TweetMe:"
+msgstr ""
+
+#: admin/style.php:655
+msgid "Displays \"Retweet\" button at the beggining of the single post."
+msgstr ""
+
+#: admin/style.php:674
+msgid "Category Post Count:"
+msgstr ""
+
+#: admin/style.php:682
+msgid "Sets number of posts to display on category view."
+msgstr ""
+
+#: admin/style.php:699
+msgid "Here you can change whether category page should display posts content or excerpt."
+msgstr ""
+
+#: admin/style.php:707
+msgid "Category Post Meta:"
+msgstr ""
+
+#: admin/style.php:714
+msgid "Displays post meta in the category view."
+msgstr ""
+
+#: admin/style.php:727
+msgid "Displays post date in meta in the category view."
+msgstr ""
+
+#: admin/style.php:742
+msgid "Displays post author in meta in the category view."
+msgstr ""
+
+#: admin/style.php:748
+#: admin/style.php:874
+#: admin/style.php:1000
+#: admin/style.php:1126
+msgid "Post Comments Meta:"
+msgstr ""
+
+#: admin/style.php:755
+msgid "Displays post comment icon in meta in the category view."
+msgstr ""
+
+#: admin/style.php:763
+#: admin/style.php:889
+#: admin/style.php:1015
+#: admin/style.php:1141
+msgid "Link Titles:"
+msgstr ""
+
+#: admin/style.php:770
+msgid "Link titles in the category view."
+msgstr ""
+
+#: admin/style.php:776
+msgid "Category Post Title:"
+msgstr ""
+
+#: admin/style.php:783
+msgid "Displays post title on the category view."
+msgstr ""
+
+#: admin/style.php:800
+msgid "Archive Post Count:"
+msgstr ""
+
+#: admin/style.php:808
+msgid "Sets number of posts to display on archive view."
+msgstr ""
+
+#: admin/style.php:825
+msgid "Here you can change whether archive page should display posts content or excerpt."
+msgstr ""
+
+#: admin/style.php:833
+msgid "Archive Post Meta:"
+msgstr ""
+
+#: admin/style.php:840
+msgid "Displays post meta in the archive view."
+msgstr ""
+
+#: admin/style.php:853
+msgid "Displays post date in meta in the archive view."
+msgstr ""
+
+#: admin/style.php:868
+msgid "Displays post author in meta in the archive view."
+msgstr ""
+
+#: admin/style.php:881
+msgid "Displays post comment icon in meta in the archive view."
+msgstr ""
+
+#: admin/style.php:896
+msgid "Link titles in the archive view."
+msgstr ""
+
+#: admin/style.php:902
+msgid "Archive Post Title:"
+msgstr ""
+
+#: admin/style.php:909
+msgid "Displays post title on the archive view."
+msgstr ""
+
+#: admin/style.php:926
+msgid "Tags Post Count:"
+msgstr ""
+
+#: admin/style.php:934
+msgid "Sets number of posts to display on tag view."
+msgstr ""
+
+#: admin/style.php:951
+msgid "Here you can change whether tag page should display posts content or excerpt."
+msgstr ""
+
+#: admin/style.php:959
+msgid "Tags Post Meta:"
+msgstr ""
+
+#: admin/style.php:966
+msgid "Displays post meta in the tag view."
+msgstr ""
+
+#: admin/style.php:979
+msgid "Displays post date in meta in the tag view."
+msgstr ""
+
+#: admin/style.php:994
+msgid "Displays post author in meta in the tag view."
+msgstr ""
+
+#: admin/style.php:1007
+msgid "Displays post comment icon in meta in the tag view."
+msgstr ""
+
+#: admin/style.php:1022
+msgid "Link titles in the tag view."
+msgstr ""
+
+#: admin/style.php:1028
+msgid "Tags Post Title:"
+msgstr ""
+
+#: admin/style.php:1035
+msgid "Displays post title on the tag view."
+msgstr ""
+
+#: admin/style.php:1052
+msgid "Search Post Count:"
+msgstr ""
+
+#: admin/style.php:1060
+msgid "Sets number of posts to display on search view."
+msgstr ""
+
+#: admin/style.php:1077
+msgid "Here you can change whether search page should display posts content or excerpt."
+msgstr ""
+
+#: admin/style.php:1085
+msgid "Search Post Meta:"
+msgstr ""
+
+#: admin/style.php:1092
+msgid "Displays post meta in the search view."
+msgstr ""
+
+#: admin/style.php:1105
+msgid "Displays post date in meta in the search view."
+msgstr ""
+
+#: admin/style.php:1120
+msgid "Displays post author in meta in the search view."
+msgstr ""
+
+#: admin/style.php:1133
+msgid "Displays post comment icon in meta in the search view."
+msgstr ""
+
+#: admin/style.php:1148
+msgid "Link titles in the search view."
+msgstr ""
+
+#: admin/style.php:1154
+msgid "Search Post Title:"
+msgstr ""
+
+#: admin/style.php:1161
+msgid "Displays post title on the search view."
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:39
+msgid "Load CSS:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:41
+#: features/RokMenu/themes/fusion/options.php:47
+#: features/RokMenu/themes/fusion/options.php:103
+#: features/RokMenu/themes/fusion/options.php:147
+#: features/RokMenu/themes/fusion/options.php:165
+msgid "Yes"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:43
+#: features/RokMenu/themes/fusion/options.php:49
+#: features/RokMenu/themes/fusion/options.php:105
+#: features/RokMenu/themes/fusion/options.php:149
+#: features/RokMenu/themes/fusion/options.php:167
+msgid "No"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:45
+msgid "Enable Javascript:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:51
+msgid "Menu Opacity:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:54
+msgid "Menu Effect:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:56
+msgid "Slide"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:57
+msgid "Slide &amp; Fade"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:60
+msgid "Hide Delay:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:63
+msgid "Menu Animation:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:65
+#: features/RokMenu/themes/fusion/options.php:109
+msgid "linear"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:98
+msgid "Menu Duration:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:101
+msgid "Enable Pill:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:107
+msgid "Pill Animation:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:142
+msgid "Pill Duration:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:145
+msgid "Centered Dropdowns:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:151
+msgid "Level 2 X Offset:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:154
+msgid "Level 2 Y Offset:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:157
+msgid "Submenus X Offset:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:160
+msgid "Submenus Y Offset:"
+msgstr ""
+
+#: features/RokMenu/themes/fusion/options.php:163
+msgid "Enable Active ID:"
+msgstr ""
+
+#: includes/comments.php:22
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: includes/comments.php:26
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/comments.php:27
+msgid "(Edit)"
+msgstr ""
+
+#: includes/comments.php:39
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/side-front-left.php:17
+#: includes/side-sub-right.php:17
+msgid "Authors"
+msgstr ""
+
+#: includes/side-front-left.php:52
+#: includes/side-sub-right.php:52
+msgid "Blogroll"
+msgstr ""
+
+#: includes/side-front-left.php:87
+#: includes/side-sub-right.php:87
+msgid "Meta"
+msgstr ""
+
+#: includes/side-front-left.php:94
+#: includes/side-sub-right.php:94
+msgid "Valid"
+msgstr ""
+
+#: includes/side-front-right.php:17
+#: includes/side-sub-left.php:17
+msgid "Categories"
+msgstr ""
+
+#: includes/side-front-right.php:52
+#: includes/side-sub-left.php:52
+msgid "Archives"
+msgstr ""
+
+#: includes/widget_data.php:9
+msgid "Top Menu Position"
+msgstr ""
+
+#: includes/widget_data.php:20
+msgid "Position below the logo."
+msgstr ""
+
+#: includes/widget_data.php:31
+msgid "Position next to logo."
+msgstr ""
+
+#: includes/widget_data.php:42
+#: includes/widget_data.php:53
+#: includes/widget_data.php:64
+msgid "Position in header directly over date and search bar."
+msgstr ""
+
+#: includes/widget_data.php:75
+msgid "Over the default content of the right frontpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:86
+msgid "Widgets placed here will replace the default content of the right frontpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:97
+msgid "Under the default content of the right frontpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:108
+msgid "Over the default content of the left frontpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:119
+msgid "Widgets placed here will replace the default content of the left frontpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:130
+msgid "Under the default content of the left frontpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:141
+msgid "Over the default content of the right subpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:152
+msgid "Widgets placed here will replace the default content of the right subpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:163
+msgid "Under the default content of the right subpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:174
+msgid "Over the default content of the left subpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:185
+msgid "Widgets placed here will replace the default content of the left subpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:196
+msgid "Under the default content of the left subpage sidebar."
+msgstr ""
+
+#: includes/widget_data.php:207
+msgid "Position directly under the main content - full width."
+msgstr ""
+
+#: includes/widget_data.php:218
+#: includes/widget_data.php:229
+#: includes/widget_data.php:240
+msgid "Position directly under the main content."
+msgstr ""
+
+#: includes/widget_data.php:251
+msgid "Position directly above the footer."
+msgstr ""
+
+#: includes/widget_data.php:262
+#: includes/widget_data.php:273
+#: includes/widget_data.php:284
+#: includes/widget_data.php:295
+msgid "Footer widget position."
+msgstr ""
+
+#: includes/widgets/rokmenu_wget.php:25
+msgid "RocketTheme RokMenu Widget"
+msgstr ""
+
+#: includes/widgets/rokmenu_wget.php:27
+msgid "RokMenu"
+msgstr ""
+
+#: includes/widgets/rokmenu_wget.php:77
+msgid "Show Home Menu Item:"
+msgstr ""
+
+#: includes/widgets/rokmenu_wget.php:85
+msgid "Home Menu Text:"
+msgstr ""
+
+#: includes/widgets/rokmenu_wget.php:89
+msgid "Limit Levels:"
+msgstr ""
+
+#: includes/widgets/rokmenu_wget.php:96
+msgid "Start Level:"
+msgstr ""
+
+#: includes/widgets/rokmenu_wget.php:100
+msgid "End Level:"
+msgstr ""
+
+#: includes/widgets/rokmenu_wget.php:104
+msgid "Show All Children:"
+msgstr ""
+
+#: includes/widgets/rokmenu_wget.php:111
+msgid "Maximum Depth:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:9
+msgid "RocketTheme RokStories Widget"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:11
+msgid "RokStories"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:216
+msgid "Read the Full Story"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:264
+#: includes/widgets/roktabs_wget.php:160
+msgid "Sorry, but your category is empty!"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:344
+msgid "General Parameters"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:345
+#: includes/widgets/roktabs_wget.php:214
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:348
+msgid "Layout:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:351
+msgid "Showcase"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:352
+msgid "Compact Showcase"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:358
+msgid "Max Number Of Articles:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:361
+#: includes/widgets/roktabs_wget.php:226
+msgid "Order:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:367
+#: includes/widgets/roktabs_wget.php:232
+msgid "Menu Order"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:368
+#: includes/widgets/roktabs_wget.php:233
+msgid "Parent"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:369
+#: includes/widgets/roktabs_wget.php:234
+msgid "ID"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:372
+msgid "Image Position:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:374
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:375
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:376
+msgid "None"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:379
+msgid "Display Article Title:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:385
+msgid "Display Article Date:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:391
+msgid "Display Article Content:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:397
+#: includes/widgets/roktabs_wget.php:220
+msgid "Type Of Content :"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:403
+msgid "Display 'Read More' Button:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:409
+msgid "Image Dimensions:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:414
+#: includes/widgets/rokstories_wget.php:422
+msgid "Thumbnail Container Size:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:417
+msgid "Thumbnail Dimensions:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:425
+msgid "First Article:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:428
+msgid "Thumbs Opacity:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:431
+msgid "Interaction:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:433
+msgid "Click"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:434
+msgid "Mouse Over"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:437
+msgid "Autoplay:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:443
+msgid "Autoplay Delay:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:446
+msgid "Only for Showcase Layout"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:447
+msgid "Show Label Title:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:453
+msgid "Show Previews on Arrows:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:459
+msgid "Fixed Previews:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:465
+msgid "Linked Labels:"
+msgstr ""
+
+#: includes/widgets/rokstories_wget.php:471
+msgid "Linked Images:"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:109
+msgid "(more ...)"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:237
+msgid "Number of tabs:"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:240
+msgid "Tabs position:"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:242
+msgid "Top"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:243
+msgid "Bottom"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:244
+msgid "Hidden"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:247
+msgid "Width:"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:250
+msgid "Links margin:"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:256
+msgid "Transition duration:"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:259
+msgid "Transition type:"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:261
+msgid "Scrolling"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:262
+msgid "Fadding"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:265
+msgid "Transition effect:"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:300
+msgid "Enable autoplay:"
+msgstr ""
+
+#: includes/widgets/roktabs_wget.php:306
+msgid "Autplay delay:"
+msgstr ""
+
+#: js/rokstories/default.php:75
+msgid "DATE_FORMAT_LC2"
+msgstr ""
+
+#: js/rokstories/default.php:75
+msgid "date"
+msgstr ""
+

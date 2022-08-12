@@ -1,0 +1,125 @@
+/* Help Hide */
+
+.rthide {display: none; line-height: 180%;}
+
+/* Wrapper */
+
+#rtpanel {margin: 60px auto; width: 770px; font: "Helvetica", "Lucida Grande", sans-serif; color: #333; font-size: 13px;}
+.clr {clear: both;}
+
+#rt-top-l {float: left; width: 11px; height: 59px; background: url(images/tc_l.png) no-repeat;}
+#rt-top-m {float: left; width: 748px; height: 59px; background: url(images/tm.png) repeat-x; font: "Lucida Grande", "Helvetica", sans-serif;}
+#rt-top-r {float: left; width: 11px; height: 59px; background: url(images/tc_r.png) no-repeat;}
+
+a.topgeneral {float: left; margin-top: 17px; margin-left: 5px; margin-right: 5px; width: 40px; height: 26px; display: block; overflow: hidden; background: url(images/general.png) 0 0;}
+a.topgeneral:hover {background: url(images/general.png) 0 26px;}
+a.topstyle {float: left; margin-top: 17px; margin-left: 5px; margin-right: 5px; width: 40px; height: 26px; display: block; overflow: hidden; background: url(images/style.png) 0 0;}
+a.topstyle:hover {background: url(images/style.png) 0 26px;}
+a.toplayout {float: left; margin-top: 17px; margin-left: 5px; margin-right: 5px; width: 40px; height: 26px; display: block; overflow: hidden; background: url(images/layout.png) 0 0;}
+a.toplayout:hover {background: url(images/layout.png) 0 26px;}
+a.topsections {float: left; margin-top: 17px; margin-left: 5px; margin-right: 5px; width: 40px; height: 26px; display: block; overflow: hidden; background: url(images/sections.png) 0 0;}
+a.topsections:hover {background: url(images/sections.png) 0 26px;}
+a.topforums {float: left; margin-top: 17px; margin-left: 5px; margin-right: 5px; width: 40px; height: 26px; display: block; overflow: hidden; background: url(images/forums.png) 0 0;}
+a.topforums:hover {background: url(images/forums.png) 0 26px;}
+
+div.roktabs-links {width: 151px; float: left;}
+ul.additional-button {float:left;}
+
+.tabcont {width: 770px !important;}
+.general-wrapper {position:relative;}
+.inner-tabber {visibility:hidden;}
+
+#maincontent {border-left: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC;}
+
+#rt-bot-l {float: left; width: 11px; height: 59px; background: url(images/bc_l.png) no-repeat;}
+#rt-bot-m {float: left; width: 748px; height: 59px; background: url(images/bm.png) repeat-x;}
+#rt-bot-r {float: left; width: 11px; height: 59px; background: url(images/bc_r.png) no-repeat;}
+
+#rocket {width: 27px; height: 27px; display: block; background: url(images/rocket.png) no-repeat; margin-top: 9px; margin-left: 5px; float: left;}
+
+/* Tabs Smaller */
+
+.tabbar {background:  #E6E6E6 url(images/tabbg.png) repeat-x; height: 31px; margin-bottom: 20px; width: 758px; padding: 0 5px; line-height: 31px; font: bold 11px "Lucida Grande", "Helvetica", sans-serif;}
+.tabbar a, .tabbar a:hover {text-decoration: none; color: #333;}
+.singletab {margin-top: 3px; margin-left: 10px;}
+.tabl {float:left; background: url(images/tabl.png) 0 0 no-repeat; display: block; width: 11px; height: 23px; line-height: 22px;}
+.singletab:hover .tabl {background: url(images/tabl.png) 0 100% no-repeat;}
+.tabr {float:left; background: url(images/tabr.png) 100% 0 no-repeat; display: block; height: 23px; padding-right: 11px !important; line-height: 22px;}
+.singletab:hover .tabr {background: url(images/tabr.png) 100% 100% no-repeat;}
+
+/* Admin Anchors */
+
+.section-title {font-size: 130%; font-weight: bold;}
+
+/* General */
+
+.main-general {margin-left: 20px; margin-bottom: 20px;}
+
+/* Table */
+
+.firstcol {width: 370px; padding-bottom: 20px;}
+.secondcol {width: 360px; padding-bottom: 20px;}
+.bigcol {padding-bottom: 20px;height:133px;}
+.options_table {font: bold 12px "Helvetica", "Lucida Grande", sans-serif;}
+
+/* Parameter Field */
+
+.paramfield {-moz-border-radius: 20px; -webkit-border-radius: 20px; background: #E7E7E7; padding: 20px 15px 20px 15px; width: 320px;}
+.paramtext {float: left; margin-top: 7px;}
+.test {float: left;}
+.help {display: block; float: left; background: url(images/help.png) no-repeat; width: 22px; height: 21px; margin-left: 10px; margin-top: 5px; text-indent: -9999px; cursor: pointer;}
+
+#rtpanel .options_table input.textbox {padding: 5px 10px 5px 10px; background: url(images/textfld.png) repeat-x; border: 1px solid #CCCCCC; margin-left: 10px;}
+#rtpanel .options_table input.pickerbox {background: url(images/textfld.png) repeat-x; border: 1px solid #CCCCCC;}
+
+/* Check Box */
+
+.paramcheck {margin-left: 10px; display: block; float: right !important;}
+.paramfield select {padding: 5px !important; width: 140px !important; height: 28px !important; background: url(images/textfld.png) repeat-x; border: 1px solid #CCCCCC;}
+.paramcheck label {display: block; float: left;}
+.paramcheck div {display: block; float: left;}
+div.paramcheck.doublefield input.textbox {padding-right: 1px !important;}
+.rokchecks {background: url(images/slider.png) 0 0px no-repeat; padding: 30px 0px 0px 111px;}
+.rokchecks-active {background: url(images/slider.png) 0 -30px no-repeat;}
+
+.paramcheck input.checkbox {display:block !important;position:absolute !important; opacity:0;}
+
+/* Radios Layout */
+
+.bigcol label {display: block; font-size: 11px;}
+
+.bigcol .scs .rokradios {background: url(images/s-c-s.png) 0 0 no-repeat; padding: 124px 0px 0px 183px; margin-top: 8px;}
+.bigcol .scs .rokradios-active {background: url(images/s-c-s.png) 0 -125px no-repeat; padding: 140px 0px 0px 183px; margin-top: 0px;}
+
+.bigcol .scx .rokradios {background: url(images/s-c-x.png) 0 0 no-repeat; padding: 124px 0px 0px 183px; margin-top: 8px;}
+.bigcol .scx .rokradios-active {background: url(images/s-c-x.png) 0 -125px no-repeat; padding: 140px 0px 0px 183px; margin-top: 0px;}
+
+.bigcol .xcs .rokradios {background: url(images/x-c-s.png) 0 0 no-repeat; padding: 124px 0px 0px 183px; margin-top: 8px;}
+.bigcol .xcs .rokradios-active {background: url(images/x-c-s.png) 0 -125px no-repeat; padding: 140px 0px 0px 183px; margin-top: 0px;}
+
+.bigcol .xcx .rokradios {background: url(images/x-c-x.png) 0 0 no-repeat; padding: 124px 0px 0px 183px; margin-top: 8px;}
+.bigcol .xcx .rokradios-active {background: url(images/x-c-x.png) 0 -125px no-repeat; padding: 140px 0px 0px 183px; margin-top: 0px;}
+
+.bigcol .sub-scs .rokradios {background: url(images/s-c-s.png) 0 0 no-repeat; padding: 124px 0px 0px 183px; margin-top: 8px;}
+.bigcol .sub-scs .rokradios-active {background: url(images/s-c-s.png) 0 -125px no-repeat; padding: 140px 0px 0px 183px; margin-top: 0px;}
+
+.bigcol .sub-scx .rokradios {background: url(images/s-c-x.png) 0 0 no-repeat; padding: 124px 0px 0px 183px; margin-top: 8px;}
+.bigcol .sub-scx .rokradios-active {background: url(images/s-c-x.png) 0 -125px no-repeat; padding: 140px 0px 0px 183px; margin-top: 0px;}
+
+.bigcol .sub-xcs .rokradios {background: url(images/x-c-s.png) 0 0 no-repeat; padding: 124px 0px 0px 183px; margin-top: 8px;}
+.bigcol .sub-xcs .rokradios-active {background: url(images/x-c-s.png) 0 -125px no-repeat; padding: 140px 0px 0px 183px; margin-top: 0px;}
+
+.bigcol .sub-xcx .rokradios {background: url(images/x-c-x.png) 0 0 no-repeat; padding: 124px 0px 0px 183px; margin-top: 8px;}
+.bigcol .sub-xcx .rokradios-active {background: url(images/x-c-x.png) 0 -125px no-repeat; padding: 140px 0px 0px 183px; margin-top: 0px;}
+
+/* Submit */
+
+#bottom .submit-wrapper {width: 90px; float: right; margin-top: 6px;}
+#top .submit-wrapper {width: 90px; float: right; margin-top: 13px;}
+#bottom .submit-button, #top .submit-button {background: url(images/submit.png) 0 0 no-repeat; width: 87px; height: 32px; border: none; text-indent: -9999px; cursor: pointer; display: block;}
+
+/* Tips */
+
+.rok-tip {background: url(images/roktip.png) center center no-repeat;width:125px;height:57px;}
+.rok-title {display: none;}
+.rok-text {padding: 0 15px;line-height:43px;color: #f3f3f3;text-shadow: -1px -1px #333;font-size: 15px;text-align: center;}

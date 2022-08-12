@@ -1,0 +1,492 @@
+[PHP ERR][WARN] MSG:file_exists(): open_basedir restriction in effect. File(/home/runcloud/webapps/wp-config.php) is not within the allowed path(s): (/home/runcloud/webapps/alpeshdoshi:/var/lib/php/session:/tmp) [CODE:2|FILE:/home/runcloud/webapps/alpeshdoshi/dup-installer/classes/class.installer.state.php|LINE:57]
+[PHP ERR][WARN] MSG:file_exists(): open_basedir restriction in effect. File(/home/runcloud/webapps/wp-config.php) is not within the allowed path(s): (/home/runcloud/webapps/alpeshdoshi:/var/lib/php/session:/tmp) [CODE:2|FILE:/home/runcloud/webapps/alpeshdoshi/dup-installer/ctrls/ctrl.s1.php|LINE:69]
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 11:53:59
+* VERSION: 1.3.24
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 5.6.36                                |7.4.1
+OS__________________: Linux                                 |Linux
+CREATED_____________: 2020-01-23 23:24:56
+WP VERSION__________: 5.3.2
+DUP VERSION_________: 1.3.24
+DB__________________: 5.6.39
+DB TABLES___________: 16
+DB ROWS_____________: 1,127
+DB FILE SIZE________: 1.3MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.4.1 | SAPI: fpm-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.41 (Unix) OpenSSL/1.1.1
+DOC ROOT____________: "/home/runcloud/webapps/alpeshdoshi"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://alpeshdoshi.san.is/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "20191214_alpeshdoshisthoughtsandview_a48f145dab883a192416_20200123232456_archive.zip"
+SIZE________________: 40.25MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7396
+    [filename] => /home/runcloud/webapps/alpeshdoshi/20191214_alpeshdoshisthoughtsandview_a48f145dab883a192416_20200123232456_archive.zip
+    [comment] => 
+)
+File timestamp set to Current: 2020-01-23 23:54:02
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 11:54:03 - RUNTIME: 4.0256 sec.
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/runcloud/webapps/alpeshdoshi/dup-installer/classes/config/class.constants.php|LINE:68]
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/runcloud/webapps/alpeshdoshi/dup-installer/classes/config/class.constants.php|LINE:68]
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 11:55:23
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.2.30 -- Build Server: 5.6.39
+FILE SIZE:	dup-database__a48f145-23232456.sql (1.15MB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/home/runcloud/webapps/alpeshdoshi/dup-installer/dup-installer-data__a48f145-23232456.sql]
+COLLATE FB:	Off
+[PHP ERR][WARN] MSG:count(): Parameter must be an array or an object that implements Countable [CODE:2|FILE:/home/runcloud/webapps/alpeshdoshi/dup-installer/ctrls/ctrl.s2.dbinstall.php|LINE:386]
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	152
+
+sk2_blacklist: (15)
+wp_commentmeta: (0)
+wp_comments: (0)
+wp_duplicator_packages: (0)
+wp_links: (9)
+wp_options: (269)
+wp_postmeta: (161)
+wp_posts: (133)
+wp_sk2_logs: (6)
+wp_sk2_spams: (34)
+wp_term_relationships: (175)
+wp_term_taxonomy: (83)
+wp_termmeta: (0)
+wp_terms: (83)
+wp_usermeta: (70)
+wp_users: (4)
+Removed '86' cache/transient rows
+
+INSERT DATA RUNTIME: 0.2327 sec.
+STEP-2 COMPLETE @ 11:55:23 - RUNTIME: 0.2360 sec.
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/runcloud/webapps/alpeshdoshi/dup-installer/classes/config/class.constants.php|LINE:68]
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/runcloud/webapps/alpeshdoshi/dup-installer/classes/config/class.constants.php|LINE:68]
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 11:55:34
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Alpesh Doshi&#039;s Thoughts and Views"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/var/www/vhosts/alpeshdoshi.com/httpdocs/"
+path_new______________: "/home/runcloud/webapps/alpeshdoshi/"
+siteurl_______________: "http://alpeshdoshi.san.is"
+url_old_______________: "http://www.alpeshdoshi.com"
+url_new_______________: "http://alpeshdoshi.san.is"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbhost________________: "localhost"
+dbuser________________: "hftuyoij897gt987y0"
+dbname________________: "alpeshdoshi_14569842156"
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "sk2_blacklist"___________________________________[ROWS:    15][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   269][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:   161][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   133][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_sk2_logs"_____________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_sk2_spams"____________________________________[ROWS:    34][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:   175][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    83][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    83][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    70][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/vhosts/alpeshdoshi.com/httpdocs/" =======> "/home/runcloud/webapps/alpeshdoshi/"
+	SEARCH  2:"\/var\/www\/vhosts\/alpeshdoshi.com\/httpdocs\/" => "\/home\/runcloud\/webapps\/alpeshdoshi\/"
+	SEARCH  3:"%2Fvar%2Fwww%2Fvhosts%2Falpeshdoshi.com%2Fhttpdocs%2F" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi%2F"
+	SEARCH  4:"\var\www\vhosts\alpeshdoshi.com\httpdocs" ========> "/home/runcloud/webapps/alpeshdoshi"
+	SEARCH  5:"\\var\\www\\vhosts\\alpeshdoshi.com\\httpdocs" ===> "\/home\/runcloud\/webapps\/alpeshdoshi"
+	SEARCH  6:"%5Cvar%5Cwww%5Cvhosts%5Calpeshdoshi.com%5Chttpdocs" => "%2Fhome%2Fruncloud%2Fwebapps%2Falpeshdoshi"
+	SEARCH  7:"//www.alpeshdoshi.com" ===========================> "//alpeshdoshi.san.is"
+	SEARCH  8:"\/\/www.alpeshdoshi.com" =========================> "\/\/alpeshdoshi.san.is"
+	SEARCH  9:"%2F%2Fwww.alpeshdoshi.com" =======================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 10:"//alpeshdoshi.com" ===============================> "//alpeshdoshi.san.is"
+	SEARCH 11:"\/\/alpeshdoshi.com" =============================> "\/\/alpeshdoshi.san.is"
+	SEARCH 12:"%2F%2Falpeshdoshi.com" ===========================> "%2F%2Falpeshdoshi.san.is"
+	SEARCH 13:"https://alpeshdoshi.san.is" ======================> "http://alpeshdoshi.san.is"
+	SEARCH 14:"https:\/\/alpeshdoshi.san.is" ====================> "http:\/\/alpeshdoshi.san.is"
+	SEARCH 15:"https%3A%2F%2Falpeshdoshi.san.is" ================> "http%3A%2F%2Falpeshdoshi.san.is"
+--------------------------------------
+SCANNED:	Tables:16 	|	 Rows:1042 	|	 Cells:7146 
+UPDATED:	Tables:4 	|	 Rows:160 	|	 Cells:160 
+ERRORS:		0 
+RUNTIME:	0.056300 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""alpeshdoshi_14569842156""
+	UPDATE DB_USER ""hftuyoij897gt987y0""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache 'htaccess.orig' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+MEDIA SETTINGS NOTICE: The table 'wp_options' has at least one the following values ['upload_url_path','upload_path'] 
+set please validate settings. These settings can be changed in the wp-admin by going to /wp-admin/options.php'
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 11:55:35 - RUNTIME: 0.0758 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] Info
+	SECTIONS: general
+	LONG MSG:             The following is a list of notices that may need to be fixed in order to finalize your setup. These values should only be investigated if you're running into
+            issues with your site. For more details see the <a href="https://codex.wordpress.org/Editing_wp-config.php" target="_blank">WordPress Codex</a>.
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+-----------------------
+[WARNING] Media settings notice
+	SECTIONS: general
+	LONG MSG: MEDIA SETTINGS NOTICE: The table 'wp_options' has at least one the following values ['upload_url_path','upload_path'] 
+set please validate settings. These settings can be changed in the wp-admin by going to /wp-admin/options.php'
+
+====================================
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/runcloud/webapps/alpeshdoshi/dup-installer/classes/config/class.constants.php|LINE:68]

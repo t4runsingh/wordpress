@@ -1,0 +1,20 @@
+#rtpanel, #top, .roktabs-links, ul.roktabs-top, .paramcheck label, .bigcol {zoom:1;}
+
+.singletab {margin-left: 7px;}
+.roktabs-links {margin-left: 0 !important; width: 181px !important;}
+.main-general {margin-left: 10px !important; margin-right: 0 !important;}
+.roktabs-container-inner {width: 768px !important;}
+.paramcheck label {width: auto; margin-top: 3px;}
+.paramcheck label.thumb_w {width: 160px;}
+.paramcheck label.showcase_thumb_w {width: 160px;}
+.paramcheck label.showcase_start_width {width: 90px;}
+.paramcheck label.bg_style select {width: 130px !important;}
+#rtpanel input.textbox {margin-top: 0px;}
+.ie6margin {margin-right: 20px; background: #CCCCCC; text-align: center; padding: 10px;}
+.layout_chooser {width: 740px;}
+.paramcheck input.checkbox {display:block !important;position:relative !important;}
+.paramcheck.onlycheck {width: 56px; margin-left: 2px;}
+.doublefield {width: 192px !important;}
+div.paramfield select {width: 130px !important;}
+.coloronly {width: 142px !important;}
+.stubborn {width: 164px !important;}
